@@ -1,0 +1,248 @@
+    1  git config --global user.name "Xolani"
+    2  git config --global user.email "xzchauke@gmail.com"
+    3  git int
+    4  git init
+    5  ls -a
+    6  git status
+    7  touch index.html
+    8  git status
+    9  cd
+   10  git add index.html
+   11  git status
+   12  git commit -m "create index.html"
+   13  git status
+   14  git config --list
+   15  ls
+   16  command_line_course linux_bootcamp
+   17  ls /data
+   18  ls
+   19  ls
+   20  ls /Documents
+   21  ls /etc/per1
+   22  ls /
+   23  pwd
+   24  pwd
+   25  mkdir Learning
+   26  mkdir Learning_unix
+   27  ls
+   28  pwd
+   29  cd Learning_unix
+   30  cd
+   31  cd Learning_unix
+   32  cd Learning_unix
+   33  ls
+   34  cd
+   35  ls
+   36  ls/
+   37  ls /
+   38  cd
+   39  pwd
+   40  /Learning_unix$ mkdir Outer_directory
+   41  cd Learning_unix
+   42  mkdir Outer_directory
+   43  cd Outer_directory
+   44  mkdir Inner_directory
+   45  cd Inner_directory
+   46  mkdir -p Outer_directory/Inner_directory
+   47  cd
+   48  cd home
+   49  mkdir home
+   50  cd home
+   51  cd Zwelibanzi
+   52  cd Zwelibanzi@LAPTOP-QJO76GA2 MINGW64
+   53  cd
+   54  cd home
+   55  cd
+   56  pwd
+   57  cd
+   58  mkdir ubuntu
+   59  cd /home/ubuntu
+   60  mkdir -p /home/ubuntu
+   61  cd home
+   62  mkdir ubuntu
+   63  cd ubuntu
+   64  cd
+   65  cd /home/ubuntu
+   66  cd home/ubuntu
+   67  cd 
+   68  cd home/ubuntu/
+   69  cd
+   70  cd /home/ubuntu/
+   71  cd home/ubuntu/
+   72  cd /
+   73  cd
+   74  cd home
+   75  cd /home/ubuntu
+   76  cd
+   77  cd home/ubuntu
+   78  cd /home/ubuntu
+   79  cd Learning_unix
+   80  cd
+   81  cd Learning_unix/
+   82  cd ..
+   83  cd ..
+   84  cd master
+   85  cd ../..
+   86  cd home
+   87  cd Learning_unix/
+   88  cd home/ubuntu
+   89  pwd
+   90  cd home
+   91  pwd
+   92  cd c/Users/Zwelibanzi.LAPTOP-QJO76GA2/
+   93  cd
+   94  cd
+   95  cd ../..
+   96  cd c/Users/Zwelibanzi.LAPTOP-QJO76GA2/
+   97  cd
+   98  pwd
+   99  cd home
+  100  cd ubuntu
+  101  cd ../..
+  102  cd ../../../tmp
+  103  cd
+  104  cd /tmp
+  105  cd
+  106  cd /
+  107  cd
+  108  cd ~
+  109  cd home/ubuntu/
+  110  cd ~
+  111  cd /
+  112  cd ~/Learning_unix
+  113  cd ~/Learning_unix/Outer_directory
+  114  ls ../../
+  115  ls -l /home
+  116  cd
+  117  cd ~/Learning_unix
+  118  ls -l /home
+  119  cd home
+  120  cd 
+  121  cd home
+  122  ls -l /home
+  123  cd ~/Learning_unix
+  124  ls
+  125  cd ~/Learning_unix/Outer_directory
+  126  ls
+  127  ls ../../
+  128  ls -l
+  129  ls -l/Inner_directory
+  130  ls -l
+  131  cd .
+  132  cd ..
+  133  ls -l
+  134  ls -R
+  135  ls -l -t -r
+  136  ls -lh
+  137  cd
+  138  ls -l
+  139  ls -R
+  140  cd Learning_unix/
+  141  touch heaven.txt
+  142  touch earth.txt
+  143  ls
+  144  cd
+  145  ls
+  146  ls /
+  147  ~\Learning_Unix
+  148  ~\Learning_unix
+  149  cd ~\Learning_unix
+  150  cd Learning_unix/
+  151  ls cd
+  152  ls
+  153  ls ls
+  154  ls
+  155  ls /
+  156  cd ~
+  157  ls /
+  158  cd Learning_unix\
+  159  ls
+  160  ls /
+  161  cd /
+  162  ls /
+  163  cd
+  164  cd ~
+  165  cd ../../
+  166  ls /
+  167  cd
+  168  mkdir git-basic-exercises
+  169  cd git-basic-exercises
+  170  ls -a
+  171  git init
+  172  ls -a
+  173  git status
+  174  touch README.md
+  175  ls -a
+  176  git status
+  177  git log
+  178  git add README.md
+  179  git status
+  180  git commit -m "Made changes to the new directory"
+  181  git commit --amend
+  182  git status
+  183  ls -a
+  184  git log
+  185  git status
+  186  git add README.md
+  187  git status
+  188  ls -a
+  189  git log
+  190  nano README.md
+  191  cat README.md
+  192  git status
+  193  git commit -m "second commit"
+  194  git status
+  195  git add README.md
+  196  git commit -m "second commit"
+  197  nano README.md
+  198  git status
+  199  cat README.md
+  200  git status
+  201  git add README.md
+  202  git commit -m "third commit"
+  203  git status
+  204  git log
+  205  q
+  206  git checkout 52bc24e9174e2d461c27fedb9dd635eaaaf6068a
+  207  cat README.md
+  208  git checkout main
+  209  cat README.md
+  210  git checkout main
+  211  cd
+  212  cd git-basic-exercises
+  213  git checkout
+  214  git log
+  215  git checkout master
+  216  git log
+  217  cat README.md
+  218  git branch
+  219  git branch -a
+  220  git branch <milkshake-flavours>
+  221  git branch milkshake-flavours
+  222  git branch
+  223  git branch
+  224  git checkout milkshake-flavours
+  225  git branch
+  226  git checkout master
+  227  git checkout milkshake-flavours
+  228  nano milkshakes.md
+  229  git status
+  230  git log
+  231  git checkout master
+  232  git log
+  233  git checkout milkshake-flavours
+  234  git status
+  235  git commit -m "added initial flavours"
+  236  git status
+  237  git add milkshakes
+  238  git add milkshakes.md
+  239  git commit -m "added initial flavours"
+  240  git log
+  241  git checkout master
+  242  git status
+  243  git log
+  244  git branch history
+  245  git checkout history
+  246  git log
+  247  git branch
+  248  history > history.txt
